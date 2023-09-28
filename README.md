@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HattyDoge I'm a 16-17 years old italian boy/femboy and currently studying IT in high school
+- 👋 Hi, I’m @HattyDoge I'm a 16-17 years old italian boy and currently studying IT in high school
 - 👀 I’m obviously interested in Information Technology but I'm also interested in fantasy books about the coast of the sword, my favourite character is the mighty dwarf Bruenor, I also am interested in phisics and chemistry books and also in videogames
 - 🌱 I’m currently learning how to code in C# and the functioning of computers
 <!---
