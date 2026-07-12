@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HattyDoge I'm 19 and I'm currently studying Computer Engineering 
-- 👀 I’m obviously interested in Information Technology but I'm also invested in fantasy books about the coast of the sword, my favourite character is the mighty dwarf Bruenor, I also am interested in phisics and chemistry books and also in videogames
-- 🌱 I’m currently learning how to code in C#, HTML, JS, CSS, Python
+# MyGithubPage I guess
+Hello, I'm Hatty I don't care to tell you who I am or what I do.
+If you are interested in my project scroll through my repositories or don't.
 <!---
 HattyDoge/HattyDoge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
